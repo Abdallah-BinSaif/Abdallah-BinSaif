@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallah-binsaif" alt="abdallah-binsaif" /></a> </p>
 
+- 🔭 I’m currently working on [happyTails](https://github.com/Abdallah-BinSaif/happyTails)
+
+- 🌱 I’m currently learning **TypeScript, redux-toolkit**
+
+- 📝 I regularly write articles on [linkedin.com/in/abdallah-bin-saif-272094241](linkedin.com/in/abdallah-bin-saif-272094241)
+
+- 💬 Ask me about **JavaScript, react**
+
+- 📫 How to reach me **binsaif.info@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KFP_TvcuzlmUYbtz3B0HJ93TaTOYacI9/view?usp=drive_link](https://drive.google.com/file/d/1KFP_TvcuzlmUYbtz3B0HJ93TaTOYacI9/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdallah-bin-saif-272094241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah-bin-saif-272094241" height="30" width="40" /></a>
