@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdallah-BinSaif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-binsaif&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-binsaif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallah-binsaif" alt="abdallah-binsaif" /></a> </p>
-
 - 🔭 I’m currently working on [happyTails](https://github.com/Abdallah-BinSaif/happyTails)
 
 - 🌱 I’m currently learning **TypeScript, redux-toolkit**
@@ -16,6 +12,10 @@
 - 📫 How to reach me **binsaif.info@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KFP_TvcuzlmUYbtz3B0HJ93TaTOYacI9/view?usp=drive_link](https://drive.google.com/file/d/1KFP_TvcuzlmUYbtz3B0HJ93TaTOYacI9/view?usp=drive_link)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-binsaif&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-binsaif" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallah-binsaif" alt="abdallah-binsaif" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
